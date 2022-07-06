@@ -2369,7 +2369,43 @@ galikos.com
 ||yohalabs.com^
 ||www.expressapisv2.net^
 ||www.msftncsi.com^
-
+||tracking-protection.cdn.mozilla.net^
+||h-sdk.online-metrix.net^$
+||www.googleadservices.com^$
+||settings-win.data.microsoft.com^$
+||www.msftconnecttest.com^$
+||metrics.icloud.com^$
+||www.googleadservices.com^
+||h-sdk.online-metrix.net^
+||www.msftconnecttest.com^
+||metrics.icloud.com^
+||settings-win.data.microsoft.com^
+||www.expressapisv2.net^
+||www.msftncsi.com^
+||www.expressapisv2.net^$important
+||www.msftncsi.com^$important
+||www.tg5tj2cu.com^$important
+||dns.msftncsi.com^$important
+||tracker.cyberia.is^$important
+||tracker.pirateparty.gr^$important
+||ipv6.tracker.harry.lu^$important
+||tracker.leechers-paradise.org^$important
+||ipv4.tracker.harry.lu^$important
+||r2---sn-j5ou8-jjnr.gvt1.com^$important
+||r1---sn-j5ou8-jjnk.gvt1.com^$important
+||denis.stalker.upeer.me^$important
+||p4p.arenabg.com^$important
+||firetvcaptiveportal.com^$important
+||tracker.coppersurfer.tk^$important
+||open.stealth.si^$important
+||tracker.open-internet.nl^$important
+||watchtower.1password.com^$important
+||tracker.torrent.eu.org^$important
+||tracker.internetwarriors.net^$important
+||tracker.opentrackr.org^$important
+||r2---sn-j5ou8-jjnk.gvt1.com^$important
+||retracker.lanta-net.ru^$important
+||10-10-10-30.abcdefghijklmnopqrstuvwxyz012345.plex.direct^$important
 
 
 
@@ -2383,4 +2419,11 @@ galikos.com
 @@||amp-api-edge.apps.apple.com^
 @@||fonts.gstatic.com^
 @@||binance.com^
-
+@@||l.instagram.com^$important
+@@||smp-device-content.apple.com^$important
+@@||gs-loc.apple.com^$important
+@@||amp-api-edge.apps.apple.com^$important
+@@||fonts.gstatic.com^
+@@||paypal.com^$important
+@@||instagram.com^$important
+@@||apple.com^$important
