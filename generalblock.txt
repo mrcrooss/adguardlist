@@ -2385,7 +2385,6 @@ galikos.com
 ||www.expressapisv2.net^$important
 ||www.msftncsi.com^$important
 ||www.tg5tj2cu.com^$important
-||dns.msftncsi.com^$important
 ||tracker.cyberia.is^$important
 ||tracker.pirateparty.gr^$important
 ||ipv6.tracker.harry.lu^$important
